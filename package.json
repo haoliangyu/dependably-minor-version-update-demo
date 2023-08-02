@@ -1,0 +1,22 @@
+{
+  "name": "depandabot-minor-version-update-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haoliangyu/dependabot-minor-version-update-demo.git"
+  },
+  "author": "Haoliang Yu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haoliangyu/dependabot-minor-version-update-demo/issues"
+  },
+  "homepage": "https://github.com/haoliangyu/dependabot-minor-version-update-demo#readme",
+  "dependencies": {
+    "@nestjs/cli": "^8.2.8"
+  }
+}

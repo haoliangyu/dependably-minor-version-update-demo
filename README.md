@@ -1,1 +1,1 @@
-# dependably-minor-version-update-demo
+# dependabot-minor-version-update-demo
