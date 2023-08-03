@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/haoliangyu/dependabot-minor-version-update-demo#readme",
   "dependencies": {
-    "@nestjs/cli": "^8.2.8"
+    "@nestjs/cli": "^10.1.11"
   }
 }
